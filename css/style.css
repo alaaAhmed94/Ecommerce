@@ -754,7 +754,7 @@ footer .copyright {
 /* start page 123 */
 
 #page-header {
-    background-image: url("/img/banner/b1.jpg");
+    background-image: url("img/banner/b1.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -867,7 +867,7 @@ footer .copyright {
 /* start blog-header */
 
 #page-header.blog-header {
-    background-image: url("/img/banner/b19.jpg");
+    background-image: url("img/banner/b19.jpg");
 }
 
 /* start blog-header */
@@ -969,7 +969,7 @@ footer .copyright {
 /* start about  */
 
 #page-header.about-header {
-    background-image: url("/img/about/banner.png");
+    background-image: url("img/about/banner.png");
 }
 
 #about {
